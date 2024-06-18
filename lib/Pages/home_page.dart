@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Background,
       appBar: AppBar(
         elevation: 0,
-        title: Boldfont('ShopX', 30, blue!),
+        title: Boldfont('Shopping App', 30, blue!),
         actions: [
           Padding(
             padding: const EdgeInsets.only(right: 20),
